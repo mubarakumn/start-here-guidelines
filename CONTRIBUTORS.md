@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [mubarakumn](https://github.com/mubarakumn)
+
 - [AdarshPanda931](https://github.com/AdarshPanda931)
 
 - [Paulgorithms](https://github.com/paulgorithms)
