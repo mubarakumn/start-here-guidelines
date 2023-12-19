@@ -1,6 +1,6 @@
 # CONTRIBUTORS
 
-- [mubarakumn](https://github.com/mubarakumn)
+- [Mubarakumn](https://github.com/mubarakumn)
 
 - [AdarshPanda931](https://github.com/AdarshPanda931)
 
